@@ -1,0 +1,20 @@
+div {
+	height: auto;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-around;
+	justify-content: space-evenly;
+}
+
+img {
+	margin: 15px;
+	border-radius: 40px;
+	border: 5px solid #FCAC5D;
+	 -webkit-box-shadow: 1px 5px 15px 0px rgba(0,0,0,0.4); 
+	box-shadow: 1px 5px 15px 0px rgba(0,0,0,0.4);
+}
+
+body {
+	background-color: #FCF45D;
+}
